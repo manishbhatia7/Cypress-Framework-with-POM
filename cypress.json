@@ -1,0 +1,9 @@
+{
+    "baseUrl":"https://jpetstore.aspectran.com/catalog/",
+    "supportFile": "cypress/support/index.js",
+    "screenshotOnRunFailure":true,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout":160000,
+    "defaultCommandTimeout":50000,
+    "responseTimeout":130000
+}
